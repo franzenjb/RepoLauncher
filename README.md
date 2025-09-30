@@ -2,6 +2,8 @@
 
 Simple tool to open Git repositories in Claude Code.
 
+**GitHub Repository:** https://github.com/franzenjb/RepoLauncher
+
 ## Usage
 
 Double-click `launch.sh` or run:
